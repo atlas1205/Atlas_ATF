@@ -1,3 +1,10 @@
+V2.0.3 (12/15/2024)
+- Removed Tesla Turrets in favor of the Space Age variant
+- Fixed RC Car's graphics
+- Fixed some localisation keys being named incorrectly
+- Fixed productivity for some ammo types
+- Fixed Grenade Turret MK2 recipe result
+
 V2.0.2 (12/15/2024)
 - Uncommented & re-added lines that add damage boosts from research.
 
