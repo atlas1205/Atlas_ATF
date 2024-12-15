@@ -1,0 +1,244 @@
+V2.0.2 (12/15/2024)
+- Uncommented & re-added lines that add damage boosts from research.
+
+V2.0.1 (12/13/2024)
+- Cheapened recipes - synthesize wood, 40mm HE and incendiary grenades, primers.
+- Locale fixes.
+
+V2.0.0 (12/8/2024)
+- Update to work with Factorio 2.0.
+- Research cost adjustment.
+- Rate of fire nerf to M79 and M32 grenade launchers.
+
+v1.1.38 (12/10/2023)
+- Killerwatt damage nerfed (150 -> 100)
+- Projectiles tweaked again
+- GAU sound effect adjustment (was very loud and annoying)
+- Vanilla recipes: Futuristic Receiver and Futuristic Barrel now require Low Density Structures instead of steel.
+
+V1.1.37 (12/9/2023)
+- Projectile speed and graphics tweaked for various weapons.
+- New sound effect for War Machine and Grenade Turrets MK2 (from MK19 GL in real life) and they shoot faster.
+- Laser RCW now locks onto enemies rather than the ground they stand on.
+- GAU Turrets now shoot twice as fast.
+
+V1.1.36 (12/8/2023)
+- Changed Gold Bullion to Gold Bullions.
+- Fixed an error in base game startup.
+- It is now possible to produce gold bullions and gems from the chemical plant without other mods.
+
+
+V1.1.35 (12/7/2023)
+- Refined the Remote Market's sprite.
+- Projectile adjustments for 20mm, 5.56, 7.62 NATO and energy weapons.
+- Sound adjustments.
+- Fixed invisible tesla turrets.
+
+V1.1.34 (12/6/2023)
+- Power Armors resistances buffed.
+- Power Armors recipes changed to use fusion batteries instead of uranium fuel cells.
+- Added a Remote Market and related research. Trading is now done through the market.
+- Gold bullions and gems available for trading if you have either Bob or Industrial Revolution.
+
+V1.1.33 (12/5/2023)
+- Power Armor character model fixed.
+- Recipe and tech changes to the power armors.
+- Research pack cost adjustments.
+
+V1.1.32 (12/5/2023)
+- Rotatory guns and energy weapons are now direct-hit instead of targeting the ground.
+- Turrets' damage buffed.
+- New Technology: Advanced Power Armor 1 and 2.
+- APA techs unlock the new sets of power armor - Tesla, Hellfire and Eliminator.
+- Change of certain sound effects.
+- Some weapons' and Ammo's damage buffed.
+
+V1.1.31 (12/4/2023)
+- Sellable Ammo Box crafting adjustment. Most of them are now cheaper to make.
+- Localization fixes.
+- Turrets now have damage resistance.
+- RCXD and RCND are now fire-proof and acid-proof. They should target spawners first (need more testing.)
+
+V1.1.30 (12/3/2023)
+- Balance adjustment: Grenade Turret MK1 and MK2 rate of fire nerfed.
+- Gunpowder recipes adjustment: the recipe without sulfur outputs 5, the one with sulfur outputs 10.
+- STG44 firing sound volume increased.
+- Futuristic weapons range and mobility buffed.
+- Greatly reduced the number of guns needed to craft sellable gun boxes.
+- Added a recipe to synthesize wood from heavy oil.
+
+V1.1.29 (11/28/2023)
+- Added Industrial Revolution 3 compatibility
+
+V1.1.28 (11/8/2021)
+- Fixed a crash caused by non-existing rate of fire research.
+
+V1.1.27(10/28/2021)
+Recipe changes:
+- Allowed productivity modules in components, ammo and drones recipes. (Minor issue: still unable to use Yuoki's productivity modules.)
+- Separated stone to cinnabar and stone to nitrate recipes.
+- Selling boxes can no longer be done by hand to avoid unwanted crafting.
+
+
+V1.1.26 (10/5/2021)
+Combat changes:
+- Damage buffs to tesla turrets, 40mm grenades, RC-XD, phased plasma, fusion laser, helios plasma, and killerwatt beam.
+Recipe changes:
+- RC-XD recipe no longer requires an engine unit. Instead, it now uses a green circuit.
+
+V1.1.25 (9/27/2021)
+Recipe changes:
+- Laser RCW now requires 2 super capacitors.
+- M25 plasma rifle now requires 1 plasma heater.
+Tech changes:
+- Polymer Gun Parts tech no longer requires chemical science packs.
+Combat changes:
+- Helios Rifle no longer deals laser damage.
+- Killerwatt damage nerfed (40 -> 30) and can now slow down enemies.
+- Tesla turret: damage nerfed (25 -> 15), rate of fire nerfed, idle power drain reduced (30kW -> 10kW), can fast-replace turrets and can now slow down enemies.
+New:
+- Tesla Turret MK2 (unlocked by Futuristic Weapons)
+
+V1.1.24 (9/27/2021)
+- New weapons: Helios rifle, Killerwatt (unlocked by Futuristic Weapons)
+- New turret: Tesla turret (Unlocked by Cold War Weapons. Currently using placeholder graphics. Credit: https://mods.factorio.com/mod/military-extended) 
+- Changed Winchester M1897's recipe to use the long barrel instead.
+- Buffed AA-12 rate of fire.
+- Buffed shotgun slug damage (30 -> 50).
+- Milled SMG receiver now uses only 1 steel plate.
+- The better gunpowder recipe (with sulfur) now uses less coal and nitrate.
+- Selling concept gun box now yields 10 wads of cash instead of 8.
+
+V1.1.23 (9/23/2021)
+- M25 and RCW damage buffed again.
+- 7.62x25mm Tokarev rounds typo fixed. It can now be used in PPSh-41.
+- Buffed M1928 Thompson rate of fire.
+
+V1.1.22(9/21/2021)
+- New tech: Remote Explosives, Remote Explosives 2
+- New units: RC-XD, RC-ND (unlocked by the tech above)
+- [Vanilla recipe] Reduced the amount of steel used in rifle bullet casings
+- Acid and Napalm artillery shells no longer require base game arti shells in their recipes. Instead they now use steel and explosives.
+
+
+V1.1.21 (9/18/2021)
+- The hard dependency on Bob's Metals has been dropped. If you do not have that mod, parts can be made with alternate recipes.
+- Recipe fixes.
+- Gunpowder stack size has been reduced to 500.
+
+V1.1.20(9/17/2021)
+- New tech: Grenade Launchers 3
+- New weapon: War Machine (unlocked by Grenade Launchers 3)
+- New ammo: 40mm Plasma grenades  (unlocked by Grenade Launchers 3)
+- New turrets: Grenade Turret MK2  (unlocked by Grenade Launchers 3)
+- Fixed the missing concept gun box recipe of the M25 plasma rifle.
+- Various damage, projectile velocity, range and area of effect adjustments.
+- 20mm high explosive ammo is now cheaper to make.
+
+V1.1.19(9/16/2021)
+- Hotfix: Selling heavy gun box recipe actually sold the concept gun box.
+
+V1.1.18(9/15/2021)
+- Buffs to 40mm acid grenades' area of effect and damage. Nerfs to 40mm Incendiary's area of effect.
+- Turrets now use more power for balance reasons.
+- Turret projectiles now have different velocities.
+- New ammo: Acid artillery shells, napalm artillery shells. (Unlocked with Chemical Warfare tech.)
+- Regular bullet-shooting turrets can no longer accept 20mm ammo.
+
+V1.1.17(9/15/2021)
+- Laser RCW, M25 Plasma and Swatt Master damage nerfed.
+- Turret accuracy fixed.
+
+V1.1.16(9/14/2021)
+- Turret and weapons friendly fire fixed. See below.
+- Projectiles reworked. Now they have no collision, instead shoot at the ground and deal splash damage.
+- New weapon: Laser RCW
+- New turrets: GAU turret, RCW turret
+- New tech: Chemical Warfare
+- Turrets can now be fast replaced.
+- New ammo: 40mm acid grenades, fusion battery
+- 40mm incendiary grenades are now made in the chemical plant instead.
+
+V1.1.15(9/14/2021)
+- Added 3 turrets: Swatt turret, M25 plasma turret, and grenade turret. (using base game graphics as placeholder)
+Warning: these turrets still suffer from friendly fire issues and can only shoot over a certain amount of walls. Be careful where you place them.
+
+V1.1.14 (9/13/2021)
+- New tech: Futuristic weapons
+- New weapon: Westinghouse M25 Phased Plasma Rifle
+- New ammo: 40 watt plasma magazine
+- Turrets that fire bullets can now accept all calibers of ammo (with a few exceptions).
+
+V1.1.13 (9/12/2021)
+- Further balanced trading costs.
+- Added more tradeable items.
+- New ammo: 5.56 Belt and 7.62 Belt. Can only be used in machine guns such as rotary weapons.
+- Rotary weapons now use unique ammo and shoot projectiles instead of hitscan.
+- 40mm Incendiary grenades now use heavy oil instead of solid fuel.
+- Various small changes and fixes.
+
+V1.1.12 (9/12/2021)
+- Cost adjustments to gun boxes.
+- Missing localization fix.
+
+V1.1.11 (9/11/2021)
+- The trading system has been implemented (very basic at the moment). Need more testing on balance.
+- New ammo: 12G Dragon's Breath, 20mm High-explosive.
+- New tech: Concept Weapons 2.
+- New weapons: Swatt Master.
+- Buffs: 20mm ammo and Atlas 20mm rifle's range.
+- Removed filtering cinnabar from stone recipe. You can now get both cinnabar and nitrate from stone. (No more free sulfur).
+
+V1.1.10 (9/10/2021)
+- Fixed the missing semi-auto receiver recipe.
+- Buffed 40mm Grenades' damage, explosion area and collision box. The incendiary grenades can now correctly set trees on fire.
+- HMG mobility buffed again.
+
+V1.1.9 (9/10/2021)
+- Quickfix: missing the shotgun receiver recipe.
+- Recipe ordering re-arranged.
+- Missing localization fixed.
+
+V1.1.8 (9/9/2021)
+- New tech: Shotguns, Shotguns 2, Grenade Launchers, Grenade Launchers 2.
+- New ammo: 12G buckshot, 12G slug, 12G frag, 40mm HE grenades, 40mm incendiary grenades.
+- New weapons: M1897 Trench Gun, AA12 Auto Shotgun, M79 Grenade Launcher, M32 MGL.
+- Mauser C96 and Luger P60 no longer require a pistol slide (they do not have one).
+- Higher res icons for components.
+- Various fixes
+
+V1.1.7(9/9/2021)
+- Moved Kriss Vector recipe to modern weapons subgroup.
+- Ammo damage buff: .50BMG, 20mm.
+- Mobility buff for all machine guns.
+
+V1.1.6(9/9/2021)
+- New weapons: M2HB handheld, Bren, Browning M1918 BAR, Kriss Vector.
+- New ammo: .50BMG, .303 Bren magazine.
+- Recoil springs in recipes have been moved to the weapons instead of the barrels.
+
+V1.1.5(9/4/2021)
+Hotfix:
+- Fixed powerful automatic receiver not being unlocked in Modern Weapons tech.
+- Reduced the amount of recoil springs needed for barrels.
+
+V1.1.4 (9/4/2021)
+Big update:
+-New tech: HMG, rotary weapons 1 & 2
+-New weapons: M4A1 Carbine, M134, Death Machine, GAU cannon, Atlas 20mm anti-material rifle.
+-New high res icons for weapons.
+-New firing sounds for the STG-44 and STG-60.
+-Recipe changes: modern weapons now require powerful automatic receivers; grinding stones for nitrate no longer requires gear wheels and now the recipe only has 0.4 probability to yield sulfur.
+-Localization fixes
+
+V1.1.3 (9/4/2021)
+- Fixed missing string and translation errors.
+
+V1.1.2 (9/4/2021)
+- Chinese localization fixes.
+
+V1.1.1 (9/3/2021)
+- Regrouped items.
+
+V1.1.0 (9/3/2021)
+- Remade and re-released.
