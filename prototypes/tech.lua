@@ -426,10 +426,6 @@ data:extend(
                 {
                     type = "unlock-recipe",
                     recipe = "545x39"
-                },
-                {
-                    type = "unlock-recipe",
-                    recipe = "ATF-tesla-turret"
                 }
             },
             prerequisites = {"smg-tech", "assault-rifle-tech", "poly-acc-tech"},
@@ -944,10 +940,6 @@ data:extend(
                 {
                     type = "unlock-recipe",
                     recipe = "ATF-rcw-turret"
-                },
-                {
-                    type = "unlock-recipe",
-                    recipe = "ATF-tesla-turret-2"
                 }
             },
             prerequisites = {"concept-tech2","low-density-structure","uranium-processing","laser"},

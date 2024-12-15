@@ -63,30 +63,5 @@ data:extend ({
   },
 
 
-  {
-    type = "item",
-    name = "ATF-tesla-turret",
-    icon = "__Atlas_ATF__/graphics/icons/tesla-turret.png",
-    icon_size = 64,
-    subgroup = "ATF-turrets",
-    order = "b[turret]-b[tesla1]",
-    place_result = "ATF-tesla-turret",
-    stack_size = 50
-  },
-
-
-  {
-    type = "item",
-    name = "ATF-tesla-turret-2",
-    icon = "__Atlas_ATF__/graphics/icons/tesla-turret.png",
-    icon_size = 64,
-    subgroup = "ATF-turrets",
-    order = "b[turret]-b[tesla2]",
-    place_result = "ATF-tesla-turret-2",
-    stack_size = 50
-  },
-
-
-
 
 })
