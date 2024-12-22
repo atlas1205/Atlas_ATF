@@ -74,7 +74,8 @@ data:extend(
 	energy_required = 10,
     ingredients =
     {
-			{type = "item", name = "warmachine",amount = 1},
+            {type = "item", name = "ATF-future-barrel", amount = 1},
+            {type = "item", name = "ATF-future-receiver", amount = 1},
 			{type = "item", name = "ATF-grenade-turret",amount = 1}
     },
 		results = {

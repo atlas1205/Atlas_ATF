@@ -1,3 +1,9 @@
+V2.0.4 (12/22/2024)
+- Cheapened Grenade Turret MK2's recipe - Now it requires futuristic receiver and barrel instead of a War Machine GL.
+- Killerwatt now properly stuns enemeis.
+- Known issue: Killerwatt invisible beam sprites. (Not fixed, looking into)
+- Known issue: Remote Market's sprite is invisible and cannot trade. (Not fixed, looking into)
+
 V2.0.3 (12/15/2024)
 - Removed Tesla Turrets in favor of the Space Age variant
 - Fixed RC Car's graphics
