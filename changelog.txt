@@ -1,3 +1,12 @@
+V2.0.6 (1/12/2025)
+- RCW, Plasma and Swatt turrets now cover 360 degrees.
+
+V2.0.5 (1/11/2025)
+- Lowered energy cost of M25 plasma turret.
+- Turret energy adjustments.
+- All 3 sets of power armors can now fly if Space Age DLC is enabled. I will change their texture to Mech Armor later.
+- Known issues are not fixed yet.
+
 V2.0.4 (12/22/2024)
 - Cheapened Grenade Turret MK2's recipe - Now it requires futuristic receiver and barrel instead of a War Machine GL.
 - Killerwatt now properly stuns enemeis.

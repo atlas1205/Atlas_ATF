@@ -51,8 +51,8 @@ data:extend({
     energy_source =
     {
       type = "electric",
-      buffer_capacity = "1600kJ",
-      input_flow_limit = "10000kW",
+      buffer_capacity = "1800kJ",
+      input_flow_limit = "15000kW",
       drain = "20kW",
       usage_priority = "primary-input"
     },
@@ -200,7 +200,7 @@ data:extend({
 					}
       },
       cooldown = 10,    
-	  turn_range = 1.0 / 3.0,
+	  --turn_range = 1.0 / 3.0,
       projectile_creation_distance = 1.2,
       projectile_center = {0, 0}, -- same as gun_turret_attack shift
       range = 35,

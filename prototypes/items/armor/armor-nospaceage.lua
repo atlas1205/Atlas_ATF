@@ -63,17 +63,6 @@ data:extend(
             infinite = true,
             equipment_grid = "ATF-PA-grid",
             inventory_size_bonus = 40,
-            provides_flight = true,
-            takeoff_sound = {
-                filename = "__space-age__/sound/entity/mech-armor/mech-armor-takeoff.ogg",
-                volume = 0.2,
-                aggregation = {max_count = 2, remove = true, count_already_playing = true}
-            },
-            landing_sound = {
-                filename = "__space-age__/sound/entity/mech-armor/mech-armor-land.ogg",
-                volume = 0.3,
-                aggregation = {max_count = 2, remove = true, count_already_playing = true}
-            },
             open_sound = {filename = "__base__/sound/armor-open.ogg", volume = 1},
             close_sound = {filename = "__base__/sound/armor-close.ogg", volume = 1}
         },
@@ -126,20 +115,6 @@ data:extend(
             infinite = true,
             equipment_grid = "ATF-PA-grid",
             inventory_size_bonus = 40,
-            provides_flight = true,
-            takeoff_sound = {
-                filename = "__space-age__/sound/entity/mech-armor/mech-armor-takeoff.ogg",
-                volume = 0.2,
-                aggregation = {max_count = 2, remove = true, count_already_playing = true}
-            },
-            landing_sound = {
-                filename = "__space-age__/sound/entity/mech-armor/mech-armor-land.ogg",
-                volume = 0.3,
-                aggregation = {max_count = 2, remove = true, count_already_playing = true}
-            },
-            flight_sound = {
-                sound = {filename = "__space-age__/sound/entity/mech-armor/mech-armor-flight.ogg", volume = 0.2}
-            },
             open_sound = {filename = "__base__/sound/armor-open.ogg", volume = 1},
             close_sound = {filename = "__base__/sound/armor-close.ogg", volume = 1}
         },
@@ -192,20 +167,6 @@ data:extend(
             infinite = true,
             equipment_grid = "ATF-PA-grid-2",
             inventory_size_bonus = 60,
-            provides_flight = true,
-            takeoff_sound = {
-                filename = "__space-age__/sound/entity/mech-armor/mech-armor-takeoff.ogg",
-                volume = 0.2,
-                aggregation = {max_count = 2, remove = true, count_already_playing = true}
-            },
-            landing_sound = {
-                filename = "__space-age__/sound/entity/mech-armor/mech-armor-land.ogg",
-                volume = 0.3,
-                aggregation = {max_count = 2, remove = true, count_already_playing = true}
-            },
-            flight_sound = {
-                sound = {filename = "__space-age__/sound/entity/mech-armor/mech-armor-flight.ogg", volume = 0.2}
-            },
             open_sound = {filename = "__base__/sound/armor-open.ogg", volume = 1},
             close_sound = {filename = "__base__/sound/armor-close.ogg", volume = 1}
         }

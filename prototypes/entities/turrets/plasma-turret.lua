@@ -51,9 +51,9 @@ data:extend({
     energy_source =
     {
       type = "electric",
-      buffer_capacity = "3000kJ",
-      input_flow_limit = "10000kW",
-      drain = "30kW",
+      buffer_capacity = "1800kJ",
+      input_flow_limit = "15000kW",
+      drain = "20kW",
       usage_priority = "primary-input"
     },
     folded_animation =
@@ -182,7 +182,7 @@ data:extend({
       {
         category = "plasma40watt",
 		target_type = "entity",
-        energy_consumption = "1500kJ",
+        energy_consumption = "900kJ",
         action =
         {
           type = "direct",
@@ -199,7 +199,7 @@ data:extend({
         }
       },
       cooldown = 12,
-	  turn_range = 1.0 / 3.0,
+	  --turn_range = 1.0 / 3.0,
       projectile_creation_distance = 1.2,
       projectile_center = {0, 0}, -- same as gun_turret_attack shift
       range = 40,

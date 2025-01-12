@@ -4,10 +4,6 @@ require("items.comp.components-2")
 require("items.comp.res")
 --require("calibers")
 
-
---armor items
-
-
 --ammunition items
 
 
@@ -73,7 +69,12 @@ require("items.weapons.40watt")
 require("items.weapons.kf2")
 
 --armor items
+--require("items.armor.armor")
+if mods["space-age"] then
 require("items.armor.armor")
+else 
+require("items.armor.armor-nospaceage")
+end
 
 --trade items
 require("items.trade.bundles")
